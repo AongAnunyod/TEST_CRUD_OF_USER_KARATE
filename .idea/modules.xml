@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TEST_CRUD_OF_USER_KARATE.iml" filepath="$PROJECT_DIR$/.idea/TEST_CRUD_OF_USER_KARATE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/karateUser/karateUser.iml" filepath="$PROJECT_DIR$/karateUser/karateUser.iml" />
+    </modules>
+  </component>
+</project>
